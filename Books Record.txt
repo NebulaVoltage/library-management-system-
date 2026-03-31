@@ -1,0 +1,22 @@
+-----------Books Record---------
+
+Book Id:1
+Book Title:maths
+Book Author:ram
+Category:maths
+-----------------------
+Book Id:2
+Book Title:scienc
+Book Author:ravi
+Category:science
+-----------------------
+Book Id:1
+Book Title:social
+Book Author:sam
+Category:social
+-----------------------
+Book Id:2
+Book Title:english
+Book Author:divya
+Category:english
+-----------------------
